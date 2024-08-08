@@ -1,0 +1,21 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    align-items: center;
+}
+superheros{
+    background-color: bisque;
+    font-weight: 100;
+    text-align: left;
+}
+h3{
+    color: blueviolet;
+    text-decoration: line-through;
+}
+h1{
+    color: aqua;
+    text-decoration: dotted;
+}
+.superman{
+    color: black;
+}

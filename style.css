@@ -1,0 +1,184 @@
+/* CSS Document */
+html {
+    min-height: 100%;
+  }
+  body {
+      margin-left: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      background: #E9EAED; 
+  }
+  .bodyDesign
+  {
+      background-image:url('../images/page_bg.jpg');
+      background-repeat:no-repeat; 
+      background-position:center 0px; 
+      background-color:#A1CDF0
+  }
+  .textVerdana09
+  {
+      font-size:9px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana08
+  {
+      font-size:8px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana11
+  {
+      font-size:11px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana10
+  {
+      font-size:10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana10 a:link
+  {
+      font-size:10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration: underline;
+  }
+  .textVerdana10 a:visited
+  {
+      font-size:10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration: underline;
+  }
+  .textVerdana10 a:hover
+  {
+      font-size:10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration: none;
+  }
+  .textVerdana11LightBlue
+  {
+      font-size:11px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#648db6;
+  }
+  .textVerdana11 a:link
+  {
+      font-size:11px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  }
+  .textVerdana11 a:visited
+  {
+      font-size:11px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  }
+  .textVerdana11 a:hover
+  {
+      font-size:11px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:none;
+  }
+  .textVerdana12
+  {
+      font-size:12px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana12 a:link
+  {
+      font-size:12px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  }
+  .textVerdana12 a:visited
+  {
+      font-size:12px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  }
+  .textVerdana12 a:hover
+  {
+      font-size:12px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:none;
+  }
+  .textVerdana14
+  {
+      font-size:14px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  .textVerdana14 a:link
+  {
+      font-size:14px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  
+  }
+  .textVerdana14 a:visited
+  {
+      font-size:14px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:underline;
+  }
+  .textVerdana14 a:hover
+  {
+      font-size:14px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+      text-decoration:none;
+  }
+  .menuText
+  {
+      font-size:12px;
+      font-family:Arial, Helvetica, sans-serif;
+      color:#ffffff;
+      font-weight:bold;
+  }
+  .menuText a:link
+  {
+      font-size:12px;
+      font-family:Arial, Helvetica, sans-serif;
+      color:#ffffff;
+      font-weight:bold;
+      text-decoration:underline;
+  }
+  .menuText a:visited
+  {
+      font-size:12px;
+      font-family:Arial, Helvetica, sans-serif;
+      color:#ffffff;
+      font-weight:bold;
+      text-decoration:underline;
+  }
+  .menuText a:hover
+  {
+      font-size:12px;
+      font-family:Arial, Helvetica, sans-serif;
+      color:#ffffff;
+      font-weight:bold;
+      text-decoration:none;
+  }
+  
+  .breadCrumb
+  {
+      font-size:10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      color:#2e5b87;
+  }
+  
